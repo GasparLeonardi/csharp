@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\refint\Atribuicao.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_02\Atribuicao\obj\Debug\net7.0\ref\Atribuicao.dll
