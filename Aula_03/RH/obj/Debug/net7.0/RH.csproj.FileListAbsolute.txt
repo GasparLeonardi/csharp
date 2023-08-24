@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\bin\Debug\net7.0\RH.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\bin\Debug\net7.0\RH.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\bin\Debug\net7.0\RH.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\bin\Debug\net7.0\RH.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\bin\Debug\net7.0\RH.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\refint\RH.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\RH.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\RH\obj\Debug\net7.0\ref\RH.dll

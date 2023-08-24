@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int x = 10;
+             int x = 10;
             int y = 8;
             int z = 6;
             int w = 4;
