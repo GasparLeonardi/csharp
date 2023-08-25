@@ -18,7 +18,7 @@
             Console.WriteLine("5 - Refrigerante -------- R$  8,00 ");
             Console.WriteLine("6 - Suco de laranja ----- R$ 13,00 ");
             comida = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Certo, agora, escolha a quantidade: ");
+            Console.WriteLine($"Certo, agora escolha a quantidade: ");
             quanti = Convert.ToInt32(Console.ReadLine());
 
             

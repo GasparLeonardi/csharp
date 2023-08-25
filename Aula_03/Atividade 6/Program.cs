@@ -52,7 +52,7 @@
                     Console.WriteLine("Cargo inválido!");
                     break;
             }
-            Console.WriteLine($"\nSeguem os dadados solicitados:");
+            Console.WriteLine($"\nSeguem os dadados referentes ao reajuste: ");
             Console.WriteLine($"\nColaborador: {nome}");
             Console.WriteLine($"Cargo: {cargon}");
             Console.WriteLine($"Sálario reajustado: {reajustado}");
