@@ -29,23 +29,23 @@
                     cargon = "Gerente";
                     break;
                 case 2:
-                    reajustado = (salario * 7) / 100;
+                    reajustado = salario + (salario * 7) / 100;
                     cargon = "Vendedor";
                     break;
                 case 3:
-                    reajustado = (salario * 9) / 100;
+                    reajustado = salario + (salario * 9) / 100;
                     cargon = "Supervisor";
                     break;
                 case 4:
-                    reajustado = (salario * 6) / 100;
+                    reajustado = salario + (salario * 6) / 100;
                     cargon = "Motorista";
                     break;
                 case 5:
-                    reajustado = (salario * 5) / 100;
+                    reajustado = salario + (salario * 5) / 100;
                     cargon = "Estoquista";
                     break;
                 case 6:
-                    reajustado = (salario * 8) / 100;
+                    reajustado = salario + (salario * 8) / 100;
                     cargon = "Técnico de TI";
                     break;
                 default:
