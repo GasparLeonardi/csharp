@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_04\Pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll
