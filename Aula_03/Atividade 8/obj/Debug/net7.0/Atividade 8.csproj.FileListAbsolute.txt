@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\bin\Debug\net7.0\Atividade 8.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\bin\Debug\net7.0\Atividade 8.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\bin\Debug\net7.0\Atividade 8.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\bin\Debug\net7.0\Atividade 8.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\bin\Debug\net7.0\Atividade 8.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\refint\Atividade 8.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\Atividade 8.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_03\Atividade 8\obj\Debug\net7.0\ref\Atividade 8.dll
