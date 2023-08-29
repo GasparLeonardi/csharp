@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\bin\Debug\net7.0\Lista.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\bin\Debug\net7.0\Lista.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\bin\Debug\net7.0\Lista.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\bin\Debug\net7.0\Lista.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\bin\Debug\net7.0\Lista.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\refint\Lista.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\Lista.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Lista\obj\Debug\net7.0\ref\Lista.dll

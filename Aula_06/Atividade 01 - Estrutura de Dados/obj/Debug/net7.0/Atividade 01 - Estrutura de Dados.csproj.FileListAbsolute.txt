@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\bin\Debug\net7.0\Atividade 01 - Estrutura de Dados.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\bin\Debug\net7.0\Atividade 01 - Estrutura de Dados.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\bin\Debug\net7.0\Atividade 01 - Estrutura de Dados.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\bin\Debug\net7.0\Atividade 01 - Estrutura de Dados.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\bin\Debug\net7.0\Atividade 01 - Estrutura de Dados.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\refint\Atividade 01 - Estrutura de Dados.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\Atividade 01 - Estrutura de Dados.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Atividade 01 - Estrutura de Dados\obj\Debug\net7.0\ref\Atividade 01 - Estrutura de Dados.dll

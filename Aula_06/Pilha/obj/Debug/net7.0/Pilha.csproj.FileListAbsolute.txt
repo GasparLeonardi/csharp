@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\bin\Debug\net7.0\Pilha.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\bin\Debug\net7.0\Pilha.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\bin\Debug\net7.0\Pilha.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\bin\Debug\net7.0\Pilha.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_06\Pilha\obj\Debug\net7.0\ref\Pilha.dll
