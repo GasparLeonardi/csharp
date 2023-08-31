@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\bin\Debug\net7.0\Metodos de Acesso.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\bin\Debug\net7.0\Metodos de Acesso.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\bin\Debug\net7.0\Metodos de Acesso.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\bin\Debug\net7.0\Metodos de Acesso.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\bin\Debug\net7.0\Metodos de Acesso.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\refint\Metodos de Acesso.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\Metodos de Acesso.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos de Acesso\obj\Debug\net7.0\ref\Metodos de Acesso.dll

@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\bin\Debug\net7.0\Metodos.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\bin\Debug\net7.0\Metodos.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\bin\Debug\net7.0\Metodos.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\bin\Debug\net7.0\Metodos.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\bin\Debug\net7.0\Metodos.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\refint\Metodos.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\Metodos.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_07\Metodos\obj\Debug\net7.0\ref\Metodos.dll
