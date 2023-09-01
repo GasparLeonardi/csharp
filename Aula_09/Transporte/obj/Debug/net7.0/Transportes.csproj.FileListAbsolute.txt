@@ -1,0 +1,15 @@
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.csproj.AssemblyReference.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.AssemblyInfoInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.AssemblyInfo.cs
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\bin\Debug\net7.0\Transportes.exe
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\bin\Debug\net7.0\Transportes.deps.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\bin\Debug\net7.0\Transportes.runtimeconfig.json
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\bin\Debug\net7.0\Transportes.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\bin\Debug\net7.0\Transportes.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\refint\Transportes.dll
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.pdb
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\Transportes.genruntimeconfig.cache
+C:\Users\gaspa\Área de Trabalho\CSharp\Aula_09\Transporte\obj\Debug\net7.0\ref\Transportes.dll

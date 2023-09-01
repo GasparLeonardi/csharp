@@ -8,73 +8,72 @@ namespace Atividade.Model
 {
     public class Cliente
     {
-        private string nome = string.Empty;
-        private string sobrenome = string.Empty;
-        private int documentoRG;
+        private int tipo;
+        private string nomeraz = string.Empty;
+        private int documento;
         private string endereco = string.Empty;
-        private int documentoCPF;
 
-        public Cliente(string nome, string sobrenome, int documentoRG, string endereco, int documentoCPF)
+        public Cliente(int tipo, string nomeraz, int documento, string endereco)
         {
-            this.nome = nome;
-            this.sobrenome = sobrenome;
-            this.documentoRG = documentoRG;
+            this.tipo = tipo;
+            this.nomeraz = nomeraz;
+            this.documento = documento;
             this.endereco = endereco;
-            this.documentoCPF = documentoCPF;
         }
 
-        public string GetNome()
+        public int GetTipo()
         {
-            return nome;
+            return tipo;
         }
-        public void SetNome(string nome)
+        public void SetTipo(int tipo)
         {
-            this.nome = nome;
+            this.tipo = tipo;
         }
-        public string GetSobrenome()
+        public string GetNomeraz()
         {
-            return sobrenome;
+            return nomeraz;
         }
-        public void SetSobrenome(string sobrenome)
+        public void SetNomeraz(string nomeraz)
         {
-            this.nome = sobrenome;
+            this.nomeraz = nomeraz;
         }
-        public int GetDocumentoRG()
+        public int GetDocumento()
         {
-            return documentoRG;
+            return documento;
         }
-        public void SetDocumentoRG(int documentoRG)
+        public void SetDocumento(int documento)
         {
-            this.documentoRG = documentoRG;
+            this.documento = documento;
         }
         public string GetEndereco()
         {
             return endereco;
         }
-        public void SetEndereco(string nome)
+        public void SetEndereco(string endereco)
         {
-            this.nome = endereco;
+            this.endereco = endereco;
         }
-        public int GetDocumentoCPF()
+        public virtual void Visualizar()
         {
-            return documentoCPF;
-        }
-        public void SetDocumentoCPF(int documentoCPF)
-        {
-            this.documentoCPF = documentoCPF;
-        }
-        public void Visualizar()
-        {
+            string tipo = string.Empty;
+
+            switch (this.tipo)
+            {
+                case 1:
+                    tipo = "Pessoa Física";
+                    break;
+                case 2:
+                    tipo = "Pessoa Jurídica";
+                    break;    
+            }
             Console.WriteLine("************************************************");
             Console.WriteLine(" Dados do Cliente                               ");
             Console.WriteLine("************************************************");
-            Console.WriteLine($"Nome e sobrenome: {this.nome} {this.sobrenome}");
-            Console.WriteLine($"RG: {this.documentoRG}");
-            Console.WriteLine($"CPF: {this.documentoCPF}");
-            Console.WriteLine($"Endereço: {this.endereco}");
-            Console.WriteLine("************************************************");
+            Console.WriteLine($"Tipo de Cliente: {tipo}                        ");
+            Console.WriteLine($"Nome/Razão Social: {this.nomeraz}              ");
+            Console.WriteLine($"CPF/CNPJ: {this.documento}                     ");
+            Console.WriteLine($"Endereço: {this.endereco}                      ");
         }
 
     }
-
 }

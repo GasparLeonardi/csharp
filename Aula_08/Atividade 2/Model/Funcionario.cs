@@ -56,7 +56,7 @@ namespace Atividade_2.Model
             this.vrva = vrva;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine("************************************************");
             Console.WriteLine(" Dados do Funcionario                           ");
